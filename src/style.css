@@ -20,7 +20,21 @@ a {
 }
 /*style*/
 body {
-  background: #eee;
+  background: #ff000000;
+  width: 100vw;
+  height: 100vw;
+  background-image: url("image.jpg");
+}
+
+@media (min-width: 500px) {
+  body {
+    background: #ff000000;
+    width: 100vw;
+    height: auto;
+    background-image: url("image.jpg");
+    background-size: 100% 100%;
+    background-size: cover;
+  }
 }
 .globalHeader {
   margin: 20px;
@@ -56,7 +70,7 @@ body {
   white-space: nowrap;
   padding: 0 24px;
   border: none;
-  background: #458cf8;
+  background: #ff000000;
   border: 1px solid #dddddd;
   box-sizing: border-box;
   border-radius: 4px;
