@@ -1,6 +1,3 @@
-# 浏览地址:
-https://praywang.github.io/Nav-1/src/index.html
-
 # 开发
 ```
 yarn global add parcel-bundler
