@@ -169,7 +169,7 @@ module.exports = reloadCSS;
 var reloadCSS = require('_css_loader');
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./image.jpg":[["image.22a02b9d.jpg","image.jpg"],"image.jpg"],"_css_loader":"C:\\Users\\dragon\\AppData\\Local\\Yarn\\Data\\global\\node_modules\\parcel\\src\\builtins\\css-loader.js"}],"C:\\Users\\dragon\\AppData\\Local\\Yarn\\Data\\global\\node_modules\\parcel\\src\\builtins\\hmr-runtime.js":[function(require,module,exports) {
+},{"./image2.jpg":[["image2.61b93c32.jpg","image2.jpg"],"image2.jpg"],"_css_loader":"C:\\Users\\dragon\\AppData\\Local\\Yarn\\Data\\global\\node_modules\\parcel\\src\\builtins\\css-loader.js"}],"C:\\Users\\dragon\\AppData\\Local\\Yarn\\Data\\global\\node_modules\\parcel\\src\\builtins\\hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 
