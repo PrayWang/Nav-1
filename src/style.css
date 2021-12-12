@@ -121,6 +121,10 @@ body {
   position: relative;
   cursor: pointer;
 }
+.siteList .site:hover {
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
 .siteList .site > .logo {
   width: 64px;
   height: 64px;
@@ -154,7 +158,9 @@ body {
   border: 1px solid #ddd;
   border-radius: 4px;
 }
-
+.siteList .addButton:hover {
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
+}
 .siteList .addButton .icon {
   width: 64px;
   height: 64px;
