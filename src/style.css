@@ -157,6 +157,7 @@ body {
   background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
+  cursor: pointer;
 }
 .siteList .addButton:hover {
   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.5);
